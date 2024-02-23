@@ -1,0 +1,11 @@
+.custom-cursor {
+	position: absolute;
+	height: 100px;
+	width: 100px;
+	background: url('../../../img/hammer.svg') center / cover no-repeat;
+	pointer-events: none;
+}
+
+.cursor-none {
+	cursor: none;
+}

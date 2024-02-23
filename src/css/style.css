@@ -1,0 +1,26 @@
+.counter {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin: 50px auto 10px;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+.container {
+    width: 500px;
+    margin: 10px auto;
+}
+  
+.block {
+    height: 120px;
+    width: 120px;
+    border: 2px solid yellow;
+    float: left;
+    box-sizing: border-box;
+    background-color: blue; 
+}
+
+.goblin {
+    background-image: url(../img/goblin.png);
+    background-size: cover;
+}
